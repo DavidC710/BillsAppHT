@@ -1,0 +1,52 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+.navTitle {
+    color: white !important;
+    font-size: 2vw;
+    width:auto;
+}
+
+.navLink {
+    color: white !important;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.container {
+    background-color: #1B2740;
+    /*background-color: white;*/
+}
+
+.menu-text {
+    color: white !important;
+}
+
+.menu-text:hover {
+    color: red !important;
+}
+
+.menu-links {
+    background: #1B2740;
+    color: white;
+    font-weight: bolder;
+}
+
+    .menu-links:active, .menu-links:focus, .menu-links:hover {
+        background: #1B2740;
+        opacity:0.4;
+    }

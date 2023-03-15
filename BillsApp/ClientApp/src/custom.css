@@ -1,0 +1,167 @@
+/* General styles */
+body {
+    padding: 30px;
+    background-color: #1B2740;
+    font-family: 'Courier New', monospace;
+}
+
+.regular-text {
+    text-align: center;
+    color: white;
+    font-size: 2vw;
+}
+
+.spaced-text {
+    text-align: center;
+    color: white;
+    font-size: 1.5vw;
+    margin-top:8%;
+}
+
+.links-list {
+    text-align: center;
+    color: white;
+    font-size: 1.8vw;
+    margin: 5% auto;
+    width:50%;
+}
+
+.module-title {
+    text-align: center;
+    color: white;
+    font-size: 2vw;
+    font-weight:bolder;
+    background-color: #2C3134;
+    opacity:0.5;
+}
+
+.form-container {
+    padding: 20px;
+    text-align: center;
+    margin: auto 0;
+    display:block !important;
+}
+
+.label-text {
+    color: white;
+    width: 15%;
+    text-align: left !important;
+}
+
+.txt-form:disabled {
+    color: white;
+}
+
+.txt-form {
+    margin: 0 auto;
+    border-radius: 5px;
+    width: 20%;
+}
+
+/* Login styles */
+.login-outer-div {
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #2C3134;
+    border-radius: 45px 45px 45px 45px;
+    width: 55%;
+}
+
+.login-inner-div {
+    margin: 0 auto;
+    height:100%;
+}
+
+.login-title {
+    text-align: center;
+    font-size: 2.5vw;
+}
+
+.login-text {
+    text-align: center;
+    color: white;
+    font-size: 1.2vw;
+}
+
+.login-txt-box {
+    margin: auto;
+    width: 17vw;
+    font-size: 1vw;
+}
+
+.login-btns-container {
+    padding: 20px;
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.login-button {
+    font-size: 0.7vw;
+    color: #fff;
+    background-color: #1b6ec2;
+    margin: 0 auto;
+}
+
+/* Home styles */
+
+/* Profile styles */
+
+
+/* AccountManager styles */
+.table-list {
+    color: white;
+    margin: auto;
+    border:solid black;
+}
+
+/* Provide sufficient contrast against white background */
+.loginContainer {
+    width: 80%;
+    margin: 10% auto auto auto;
+    background-color: #2C3134;
+}
+
+a {
+    color: #0366d6;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    width: 80%;
+    margin: auto auto 2% auto;
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.loginButtons {
+    background-color: #2C3134;
+    margin: auto;
+
+}
+
+.txt-primary {
+    margin: auto;
+    width: 35%;
+    font-size: 15px;
+}
+
+.login-box-msge {
+    color: white;
+    font-size: 28px;
+}
+
+.checkBoxList {
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+.loginMain {
+    padding: 30px;
+    background-color: #fcfcfc;
+}
+

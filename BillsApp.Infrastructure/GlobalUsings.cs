@@ -1,0 +1,14 @@
+﻿global using Microsoft.EntityFrameworkCore.Design;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.EntityFrameworkCore;
+global using BillsApp.Domain.Entities;
+global using System.Data.Common;
+global using Microsoft.EntityFrameworkCore.Diagnostics;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using BillsApp.Infrastructure.Interceptors;
+global using BillsApp.Domain.Configurations;
+global using BillsApp.Application.Interfaces.Repositories;
+global using BillsApp.Domain.Entities.Base;
+global using BillsApp.Application.Specifications.Common;
+global using BillsApp.Infrastructure.Factories;
+global using System.Linq.Expressions;
